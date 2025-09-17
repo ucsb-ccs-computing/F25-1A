@@ -235,7 +235,7 @@ Again, to learn how to use vim, there is no substitute for PRACTICE!!! There are
 
 ## Step 5: Create and edit a file containing a C++ program <a name="step5"></a>
 
-Here are some more [vim hints](vim_hints/) to refer to. We don't expect you to be experts in vim this quarter, but you should definitely pick up "survival" skills. A little later this quarter, we will confirm that you know how to do the "basic eight" ([vim: basic eight](https://ucsb-cs16.github.io/topics/vim_basic_eight/)). 
+Here are some more [vim hints](vim_hints/) to refer to. We don't expect you to be experts in vim this quarter, but you should definitely pick up "survival" skills. 
 
 This assignment only needs you to write a program that prints out two lines on the display, and nothing else. <b>The output should look EXACTLY as follows</b> (no space before or after each line, except the 2 newlines):
 
