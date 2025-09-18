@@ -33,7 +33,7 @@ To join this organization, you need to do three things.
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
-3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CMPTGCS 1A F25), and click the "join course button". That will automatically send you an invitation to join the course organization on github.
+3. Visit our Github Sign Up Tool at [https://frontiers.dokku-00.cs.ucsb.edu/](https://frontiers.dokku-00.cs.ucsb.edu/), login with your UCSB / github.com account, cand find this course (`CMPTGCS 1A F25`), and click the "join course button". That will automatically send you an invitation to join the course organization on github.
 
 4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cmptgcs1a-f25>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cmptgcs1a-f25> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
@@ -227,11 +227,7 @@ Again, to learn how to use vim, there is no substitute for PRACTICE!!! There are
 
 * <a href="http://www.vim.org/about.php" target="_blank">About vim</a>
 
-* <a href="https://www.engadget.com/2012/07/10/vim-how-to/" target="_blank">
-
 * <a href="http://tnerual.eriogerg.free.fr/vimqrc.html" target="_blank">vim commands - a handy reference card</a>
-
-* <a href="https://www.fprintf.net/vimCheatSheet.html" target="_blank">another reference cheat sheet for vim</a>
 
 ## Step 5: Create and edit a file containing a C++ program <a name="step5"></a>
 
